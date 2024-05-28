@@ -2,7 +2,6 @@
 
 ## Técnico en Desarrollo de Software
 
-![Perfil](https://avatars.githubusercontent.com/u/12345678?v=4)  <!-- Puedes reemplazar este enlace con la URL de tu foto de perfil -->
 
 ### 📱 Contacto
 - **Teléfono**: (829) 723-8372
@@ -72,7 +71,8 @@ Como programador junior, mis objetivos personales son declaraciones accionables 
 
 ### 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=usuario&show_icons=true&theme=radical)
+<!-- GitHub Readme Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fideldavid11&show_icons=true&theme=radical)
 
 ---
 
